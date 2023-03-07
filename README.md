@@ -1,9 +1,10 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+# 🖍️ Highlightfy
 
-# Highlightfy
 Simple browser extension to highlight texts inside web sites.
 
 ## Getting Started
+
+This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 First, run the development server:
 
